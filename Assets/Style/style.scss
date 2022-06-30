@@ -1,14 +1,12 @@
-body{
-    margin: 0%;
-    padding: 0%;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    display: flex;
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-    #game{
-        background-color: greenyellow;
-    }
+  #game {
+    background-color: rgb(67, 228, 67);
+  }
 }
-
-
