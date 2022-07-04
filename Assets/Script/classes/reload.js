@@ -1,4 +1,3 @@
 function resetgame() {
-    'use strict';
-    location.reload(true);
+    window.location.reload();
 }
